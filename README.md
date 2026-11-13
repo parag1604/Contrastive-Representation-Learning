@@ -6,7 +6,7 @@ Learning image representations on MNIST by contrasting positives against negativ
 
 ## Theory
 
-A dedicated Contrastive Representation Learning lecture is coming soon on https://parag1604.github.io/notes. Until then, the section [Contrastive losses come from energy](https://parag1604.github.io/notes/Machine-Learning/Energy-Based-Models#contrastive-losses-come-from-energy) of the Energy-Based Models lecture derives the InfoNCE loss used here: positives, negatives, temperature, and why more negatives help.
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Self-Supervised-Representation-Learning#from-energy-to-contrast) (Self-Supervised Representation Learning: InfoNCE from energies, supervised contrastive learning, SimCLR, MoCo, and non-contrastive methods).
 
 ## Python Environment Setup
 
