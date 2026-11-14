@@ -20,7 +20,7 @@ A GPU (CUDA) or Apple Silicon (MPS) is used automatically if available; everythi
 
 ## Data
 
-MNIST is downloaded automatically by torchvision into `./data` on the first run (change it with `--data <folder>`).
+[MNIST](http://yann.lecun.com/exdb/mnist/) (LeCun et al., 1998) is downloaded automatically by torchvision into `./data` on the first run (change it with `--data <folder>`).
 
 ## Running
 
